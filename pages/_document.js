@@ -1,5 +1,5 @@
 import { Html, Head, Main, NextScript } from 'next/document'
-import buildspaceLogo from '../assets/buildspace-logo.png';
+import filmLogo from '../assets/film.png';
 
 export default function Document() {
   return (
@@ -9,7 +9,7 @@ export default function Document() {
         <meta property="og:description" content="build with buildspace" key="description"/>
         <meta
           property="og:image"
-          content=buildspaceLogo
+          content=filmLogo
         />
         <meta name="twitter:card" content="summary_large_image"></meta>
       </Head>

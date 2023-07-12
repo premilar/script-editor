@@ -4,11 +4,11 @@ export default function Document() {
   return (
     <Html>
       <Head>
-        <meta property="og:title" content="GPT-3 Writer" key="title"/>
+        <meta property="og:title" content="AI script editor" key="title"/>
         <meta property="og:description" content="build with buildspace" key="description"/>
         <meta
           property="og:image"
-          content="https://stock.adobe.com/search?k=%22film+logo%22"
+          content="https://ibb.co/1LrjFCt"
         />
         <meta name="twitter:card" content="summary_large_image"></meta>
       </Head>

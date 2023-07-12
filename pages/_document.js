@@ -9,7 +9,7 @@ export default function Document() {
         <meta property="og:description" content="build with buildspace" key="description"/>
         <meta
           property="og:image"
-          content=filmLogo
+          content="https://github.com/premilar/script-editor/blob/main/assets/film.png"
         />
         <meta name="twitter:card" content="summary_large_image"></meta>
       </Head>

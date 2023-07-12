@@ -8,7 +8,7 @@ export default function Document() {
         <meta property="og:description" content="build with buildspace" key="description"/>
         <meta
           property="og:image"
-          content="https://ik.imagekit.io/kc7kzs0jb/default-image.jpg?updatedAt=1689131714659"
+          content="https://ik.imagekit.io/kc7kzs0jb/film.png?updatedAt=1689131826422"
         />
         <meta name="twitter:card" content="summary_large_image"></meta>
       </Head>

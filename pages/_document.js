@@ -8,7 +8,7 @@ export default function Document() {
         <meta property="og:description" content="build with buildspace" key="description"/>
         <meta
           property="og:image"
-          content="https://drive.google.com/drive/u/1/folders/16YUO9skEisAX8UIyJUG1R43U1Rz3dYxL"
+          content="https://imgur.com/iGdvKv8"
         />
         <meta name="twitter:card" content="summary_large_image"></meta>
       </Head>
